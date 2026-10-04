@@ -1,2 +1,3 @@
-name: Expense Tracker API
-repository: https://github.com/perneshbaynuray/expense-tracker-api
+repo: https://github.com/perneshbaynuray/expense-tracker-api
+what: Expense Tracker API
+language: Python
